@@ -1,2 +1,3 @@
-# snownav.github.io
-Snowflake Navigation is a navigation platform that can upload websites to make money and has the most complete resources.
+# https://snownav.com
+# 雪花导航-全网最全资源导航，可以上传网址赚钱的导航
+# 免费资源网站导航-大全【虚拟主机】【VPS】【服务器】【主机】【域名】【接码平台】【免费接码】【邮箱大全】【免费邮箱】【住宅代理IP】【VPN】【免费VPN】【免费加速器】
